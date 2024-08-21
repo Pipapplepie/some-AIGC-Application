@@ -2,7 +2,7 @@
 
 ## text-to-image
 
-There is some extremely helpful reference on how to manage prompt: 
+Extremely helpful reference on how to manage prompt: 
 
 Prompt engineering for image generation: https://blog.csdn.net/giszz/article/details/134815245
 
@@ -13,7 +13,7 @@ Learn Prompt open-source course: https://www.learnprompt.pro/
 First-take prompt: close-up view, an Irish girl with red curly hair standing in the sun, with a radiant smile. 
 There is no freckles on her cheek. The image gives a warm atmosphere.
 
-Output:
+Output: 
 
 
 Second edit: close-up view, 
@@ -29,6 +29,13 @@ First take: In 2D anime style. A cool girl with straight black hair, looking lik
 
 Second edit: In 2D anime style. A cool girl with straight black hair, looking like a character from Evangelion, 
 dressing up like a female warrior. **The cloth gives a bit cyberpunk vibe.** Full body image with plain white background. 
+
+Final Output:
+
 ### 3D (anime-style) image
 
-# 
+First take: In 3D anime style, a female warrior with short navy blue hair holds a sword. half-body image with dark background.
+
+Zoom out 1.5 times:
+
+# Stable Diffusion
