@@ -64,3 +64,7 @@ Input a image and Midjourney will output some description of it:
 </p>
 
 # Stable Diffusion
+
+## text-to-image
+
+## image-to-image
