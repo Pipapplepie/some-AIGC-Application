@@ -40,10 +40,18 @@ _Output:_
   <img src="https://github.com/user-attachments/assets/f306a5d1-d9a5-447b-936d-f2da59a99ada" width="300" /> 
   <img src="https://github.com/user-attachments/assets/ab80d117-ff4e-4bd2-be35-b99d811cbb14" width="300" /> 
 </p>
+
+I think all AIGC's are biased.
+
 ### 3D (anime-style) image
 
-First take: In 3D anime style, a female warrior with short navy blue hair holds a sword. half-body image with dark background.
+_First take:_ In 3D anime style, a female warrior with short navy blue hair holds a sword. half-body image with dark background.
 
 Zoom out 1.5 times:
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0630e1e8-f219-40ad-98e0-efb24f817f7b" width="300" />
+  <img src="https://github.com/user-attachments/assets/c9a35b53-b7cb-4a3a-bf2d-cee7f7848e31" width="300" /> 
+</p>
 
 # Stable Diffusion
