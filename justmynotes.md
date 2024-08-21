@@ -54,4 +54,13 @@ Zoom out 1.5 times:
   <img src="https://github.com/user-attachments/assets/c9a35b53-b7cb-4a3a-bf2d-cee7f7848e31" width="300" /> 
 </p>
 
+## image-to-text
+
+Input a image and Midjourney will output some description of it:
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/854023f0-fac2-4f37-8466-c25fab76db89" width="300" /> 
+  <img src="https://github.com/user-attachments/assets/4bb279b3-bb27-46fc-aacf-9b05a17fff95" width="300" />
+</p>
+
 # Stable Diffusion
